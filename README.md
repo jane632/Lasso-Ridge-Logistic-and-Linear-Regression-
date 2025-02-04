@@ -93,3 +93,19 @@ This project is basically for  learning purposes based on algorithms in machine 
 
 **When Beta is increased, FN is more important than  FP - F2-score**
 
+**4.KNN Algorithm**
+**Classification Problem**
+Let's say k value is 5 and its going to take the 5 nearest closest points.Now from Group A we are getting 3 points and from group 2 we are getting 2 points . The maximum number of categories it is coming from thats the the category it will choose with the help of :
+                                           **a) Euclidean Distance**
+                                           **b) Manhattan Distance**
+What is euclidean distance? Its the square root of the sum of differences between the x's and Y's.
+What is manhattan distance? Takes the modulous
+
+**Regression Problem**
+##### For a regression problem, It will try to calculate the average of all points that will become the new data point.
+
+K Nearest Neighbour works very bad with outliers and an imbalanced dataset.
+
+**Decision Trees is explained well in the notebook file together with its practicals.Kindly this is for educational purpose only and to get familiar with the models and not a project.
+
+
